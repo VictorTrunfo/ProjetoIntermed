@@ -1,0 +1,19 @@
+{
+  "name": "projeto_intermediario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "jsdom": "^16.6.0",
+    "node-html-parser": "^3.2.0"
+  }
+}
